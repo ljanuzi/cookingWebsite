@@ -1,0 +1,64 @@
+:root{
+    --blue:#007bff;
+}
+html{
+    font-family:sans-serif;
+    line-height: 1.20;
+    overflow: scroll;
+    text-overflow: clip;
+}
+
+
+tr{
+    width=100%;
+}
+td{
+    width:50%;
+    border:1px solid #fff;
+    text-align: center;
+    padding:5px;
+}
+.tableHead td{
+    font-size: 30px;
+    padding-top:0px;
+}
+h3{
+    font-family: cookie, italic;
+    font-size: 2.4em;
+}
+
+/* Body */
+
+body{
+    background-image: url(/photos/food.png);
+    background-color: beige;
+    margin:0px 0px 0px 0px;
+    display: block;
+    font-size:100%;
+    padding:0px 0px 0px 0px;
+    margin:0px 0px 0px 0px;
+}
+hr{
+    background-color: white;
+    opacity: 0.4;
+    width:100%;
+}
+.somethingElse{
+    border:2px solid #34090C;
+    margin-top:30px;
+    background-color:#b30713;
+    font-family: culinary;
+    width:50%;
+    padding-top:30px;
+    color:#FFF;
+}
+.imageBorder{
+    border: 2px solid black;
+}
+
+
+
+
+
+
+

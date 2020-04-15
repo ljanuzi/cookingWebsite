@@ -1,0 +1,62 @@
+@include media-breakpoint-up(sm) {
+  html {
+    font-size: 1.2rem;
+  }
+}
+
+@include media-breakpoint-up(md) {
+  html {
+    font-size: 1.4rem;
+  }
+}
+
+@include media-breakpoint-up(lg) {
+  html {
+    font-size: 1.6rem;
+  }
+}
+
+.header{
+    width:100%;
+    margin:0px;
+    padding:170px;
+}
+.container{
+    margin-top:110px;
+}
+.col-md-6{
+    margin-top:100px;
+}
+.card-header{
+    background-color: #8a8f89c9;
+}
+.badge badge-secondary{
+    margin-left:10px;
+}
+.margin-top{
+    margin-top:50px;
+}
+.margin-bottom{
+    margin-bottom:0px;
+}
+.hr{
+    border-top: 1px solid #8c8b8b;
+    margin-top:-150px;
+}
+h2{
+    font-size:40px;
+    font-weight: 600;
+    
+}
+.img-fluid{
+     -webkit-box-shadow: 11px 11px 14px -8px rgba(33,37,41,0.56);
+    -moz-box-shadow: 11px 11px 14px -8px rgba(33,37,41,0.56);
+    box-shadow: 11px 11px 14px -8px rgba(33,37,41,0.56);
+    
+}
+.margin-left{
+    margin-left:5px;
+}
+ul{
+    list-style: none;
+}
